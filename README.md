@@ -1,2 +1,2 @@
 # clc.py
-# CaLCulator
+# CaLCulator - Simple CLI-based calculator
